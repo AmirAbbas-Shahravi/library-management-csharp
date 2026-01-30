@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Library Management System
 
 A Windows Forms application with Telerik controls for managing a library.
@@ -24,3 +25,7 @@ A Windows Forms application with Telerik controls for managing a library.
 3. Build the solution.
 
 4.Run the project from Visual Studio.
+=======
+# library-management-csharp
+Library Management System with C#
+>>>>>>> 0618484 (Initial commit)
